@@ -1,9 +1,5 @@
 # Regression-Analysis-with-Python-using-the-Ames-Housing-Dataset
 
-Here's a description for your GitHub README:
-
----
-
 # Boston Housing Prices Prediction
 
 This project aims to predict housing prices in the Boston area using linear regression and explore potential improvements in model performance with data preprocessing and cross-validation. This repository provides a complete data science workflow, from data exploration and preprocessing to model selection, evaluation, and result visualization.
